@@ -1,0 +1,14 @@
+架设教程：
+使用MSSQL2008R2数据库
+还原4个数据库名称为
+ChrLogDB
+DragonRajaDB
+TotalDB
+newdb1（充值系统）
+建立32位数据源
+ChrLogDB
+DragonRajaDB
+TotalDB
+指向三个同名数据库 
+这样架设完毕
+关于WEB更新网站那些后期再说
